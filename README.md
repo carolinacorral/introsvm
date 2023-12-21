@@ -1,0 +1,2 @@
+# introsvm
+SVM para principiantes.
