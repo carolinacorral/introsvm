@@ -1,4 +1,4 @@
-# Intruducción a SVM
+# Introducción a SVM
 Este notebook es una introducción a las Máquinas de Soporte Vectorial desde una perspectiva matemática.
 Contiene:
 - ¿Qué es un hiperplano?
